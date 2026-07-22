@@ -1,0 +1,6 @@
+replicaCount: 2
+podLaberls:
+  hello: world
+
+
+
